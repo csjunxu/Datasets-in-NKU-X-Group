@@ -1,5 +1,4 @@
-# Datasets in NKU-X-Group
- datasets and the corresponding paths
+# datasets and the corresponding paths
 
 超分辨率数据集
 
