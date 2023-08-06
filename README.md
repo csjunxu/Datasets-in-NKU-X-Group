@@ -3,10 +3,20 @@
 超分辨率数据集
 
 1. DIV2K和Flicker2K
-10.40.13.207 /home/xj019174/xty/AS-SR/DIV2K_train_HR 
-                                     /DIV2K_valid_HR
-                                     /DF2K
-10.40.13.220 /home/ubuntu/Datasets/SRdataset/ \DIV2K, benchmark_SR   DIV2K (crop to 480*480)
+10.40.13.207 
+```
+/home/xj019174/xty/AS-SR/DIV2K_train_HR 
+                        /DIV2K_valid_HR
+                        /DF2K
+```
+
+10.40.13.220 
+```
+/home/ubuntu/Datasets/SRdataset/DIV2K
+                               /benchmark_SR
+                               /DIV2K (crop to 480*480)
+```
+
 2. DIV2K和Set5，Set14，BSD100, Urban100, Mango109, Test2K, Test4K
 10.40.13.216 /data/xty/DNet/SRData/DIV2K_train_HR
                                   /DIV2K_valid_HR
