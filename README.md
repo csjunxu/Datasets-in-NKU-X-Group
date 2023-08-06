@@ -112,7 +112,7 @@ OpenEDS、LPW（瞳孔检测）10.40.13.207
 
 ImageNet-1k 10.40.13.227 
 ```
-/data/imagenet   
+/home/ubuntu/data/imagenet   
 ```
 
 企业数据集
