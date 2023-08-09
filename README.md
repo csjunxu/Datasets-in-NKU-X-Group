@@ -70,8 +70,7 @@
 /home/ubuntu/lc/mmtrain/
 ```
 
-逆色调映射数据集
-1. HDRTV1K
+2. 逆色调映射(ITM)数据 HDRTV1K
 
 10.40.13.213 
 ```
@@ -79,11 +78,18 @@
 /home/csjunxu-3090/syb/HDRTV_test/ \test_hdr, test_sdr （测试集）
 ```
 
-2. 我们自己收集的ITM-4K测试集
+3. 自己收集的ITM-4K测试集
 
 10.40.13.213 
 ```
 /home/csjunxu-3090/xlq/new_test/
+```
+
+4. HDR-MEF数据集（Kalantari, SIG17）
+
+10.40.13.233 
+```
+/home/ubuntu/lc/HDR-Transformer-PyTorch-master/data/
 ```
 
 医学影像数据
